@@ -7,16 +7,16 @@
 | Hours
 | Description
 
-| 29.11.17
+| 10.12.17
 | 1
-| Review of this and that
+| Review last lecture
 
-| 30.11.17
-| 5
-| implemented css
+| 11.12.17
+| 3
+| GUI
 
-| 11.07.17
-| 2
-| fixed bugs
+| 11.12.17
+| 3
+| tried to fix rpnCalculator
 
 |===
